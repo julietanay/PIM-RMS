@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:perId;datatype:int,name:perImage;datatype:string,name:perPosition;datatype:string,name:perFname;datatype:string,name:perMname;datatype:string,name:perLname;datatype:string,name:perExtName;datatype:string,name:perGender;datatype:string,name:perAge;datatype:int,name:perEmail;datatype:string,name:perBday;datatype:date,name:perMobileNo;datatype:string,name:perTelno;datatype:string,name:perHeight;datatype:real,name:perWeight;datatype:real,name:perBloodType;datatype:string,name:perBIRno;datatype:string,name:perAgenEmpNo;datatype:string,name:perGSISno;datatype:string,name:perPagIbigNo;datatype:string,name:perPhilHno;datatype:string,name:perSSSno;datatype:string,name:perStatus;datatype:string,name:perTransferee;datatype:string,name:perTINno;datatype:int,name:perLeaveBalance;datatype:real,name:perLeaveCred;datatype:real,name:perDateModified;datatype:date,name:divId;datatype:int" />
+	<infoitem key="UD_Recordset2" value="name:reqId;datatype:int,name:reqTitle;datatype:string,name:reqDescription;datatype:blob,name:reqDateModified;datatype:date" />
+</info>
