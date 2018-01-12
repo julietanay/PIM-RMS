@@ -1,0 +1,41 @@
+#StyleLink{
+	text-decoration:none;
+	color: Gray;
+	}
+#StyleLink:hover{
+	text-decoration:none;
+	color:#03C;
+	}
+
+#StyleLink2{
+	text-decoration:none;
+	color:#FFF;
+	}
+#StyleLink2:hover{
+	text-decoration:none;
+	color:#FFF;
+	}
+
+#tableM{
+	padding: 5px;
+	background-color:white ;
+	color: black;
+	text-align:left;
+	border-radius:5px;
+}
+#tableT{
+	padding: 5px;
+	background-color:#666;
+	color:#FFF;
+	text-align:center;
+	font-weight:bold;
+}
+
+#tableTd{
+	padding: 5px;
+}
+#tableSingle{
+	border-radius:10px;
+}
+
+
